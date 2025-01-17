@@ -13,7 +13,7 @@
   <img loading="lazy" height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=faduzin&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Eric's GitHub Stats"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img loading="lazy" height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faduzin&layout=compact&langs_count=8theme=tokyonight" alt="Top Languages"/>
+  <img loading="lazy" height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faduzin&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>
 </a>
 
 ---
