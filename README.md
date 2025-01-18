@@ -7,7 +7,7 @@
 
 ---
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" height=199 src="https://github-readme-stats.vercel.app/api?username=faduzin&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Faduzin's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img height=199 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faduzin&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" height=180 src="https://github-readme-stats.vercel.app/api?username=faduzin&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Faduzin's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faduzin&layout=compact&theme=buefy&hide_border=true" /></a> |
 
 ---
 
