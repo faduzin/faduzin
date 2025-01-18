@@ -9,6 +9,12 @@
 
 ## 📊 GitHub Stats
 
+## My Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faduzin&layout=compact)
+
+## Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=faduzin&show_icons=true)
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img loading="lazy" height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=faduzin&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Eric's GitHub Stats"/>
 </a>
