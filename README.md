@@ -7,7 +7,7 @@
 
 ---
 <p align="center">
-  |<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" height=168 title="Eric's Github Stats" alt="Eric's Stats" src="https://github-readme-stats.vercel.app/api?username=faduzin&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Faduzin's github stats" /></a>|<a href="https://github.com/JacobLinCool#user-activity-overview"><img align="center" height=168 title="Eric's Github Streak" alt="Eric's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=faduzin" /></a>|
+  |<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" height=168 title="Eric's Github Stats" alt="Eric's Stats" src="https://github-readme-stats.vercel.app/api?username=faduzin&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Faduzin's github stats" /></a>|<a href="https://github.com/JacobLinCool#user-activity-overview"><img align="center" height=167 title="Eric's Github Streak" alt="Eric's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=faduzin" /></a>|
 </p>
 
 ---
