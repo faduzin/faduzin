@@ -6,9 +6,15 @@
 - 🏋️‍♂️ Enjoys gym and racket sports in free time  
 
 ---
+<p align="center">
+  |<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" height=180 src="https://github-readme-stats.vercel.app/api?username=faduzin&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Faduzin's github stats" /></a>|<a href="https://github.com/JacobLinCool#user-activity-overview"><img align="center" height=180 title="Eric's Github Streak" alt="Eric's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=faduzin" /></a>|
+</p>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" height=180 src="https://github-readme-stats.vercel.app/api?username=faduzin&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Faduzin's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faduzin&layout=compact&theme=buefy&hide_border=true" /></a> |
-
+<p align="center">
+  <a href="https://github.com/JacobLinCool/LeetCode-Stats-Card" target="_blank">
+    <img title="Eric's LeetCode Stats" alt="Eric's LeetCode Stats" src="https://leetcard.jacoblin.cool/faduzin?theme=buefy&font=Paprika&ext=activity" />
+  </a>
+</p>
 ---
 
 ## 🌐 Connect With Me
