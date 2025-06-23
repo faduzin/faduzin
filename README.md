@@ -27,9 +27,3 @@
 - Build exciting projects integrating **Python, SQL, and Data Analysis**.  
 - Share knowledge and contribute to open-source projects.  
 - Improve coding and problem-solving skills on platforms like HackerRank and LeetCode.
-
-<p align="center">
-  <a href="https://github.com/JacobLinCool/LeetCode-Stats-Card" target="_blank">
-    <img title="Eric's LeetCode Stats" alt="Eric's LeetCode Stats" src="https://leetcard.jacoblin.cool/faduzin?theme=buefy&font=Paprika&ext=activity" />
-  </a>
-</p>
